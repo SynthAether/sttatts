@@ -36,6 +36,16 @@ See finetune scripts [here](./scripts/). Installation and Inference follows [ArT
 STTATTS is built on [ArTST](https://aclanthology.org/2023.arabicnlp-1.5/) and [SpeechT5](https://arxiv.org/abs/2110.07205). If you use any of STTATTS models, please cite the papers:
 
 ```
+@misc{toyin2024sttattsunifiedspeechtotexttexttospeech,
+      title={STTATTS: Unified Speech-To-Text And Text-To-Speech Model}, 
+      author={Hawau Olamide Toyin and Hao Li and Hanan Aldarmaki},
+      year={2024},
+      eprint={2410.18607},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.18607}, 
+}
+
 @inproceedings{toyin2023artst,
   title={ArTST: Arabic Text and Speech Transformer},
   author={Toyin, Hawau and Djanibekov, Amirbek and Kulkarni, Ajinkya and Aldarmaki, Hanan},
