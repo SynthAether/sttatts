@@ -19,6 +19,7 @@ This repository contains the implementation of the paper:
 <br>
 </div>
 
+- Oct 2024: release preprint in [arxiv](https://arxiv.org/abs/2410.18607)
 
 ### Checkpoints
 
